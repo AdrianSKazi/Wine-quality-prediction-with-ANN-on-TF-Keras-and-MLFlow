@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733349654955
+current_stage: None
+description: ''
+last_updated_timestamp: 1733349654955
+name: final_model
+run_id: fe839326b44946818dc1f9e37184b956
+run_link: ''
+source: file:///Users/adriankazi/Desktop/MLOps/6-MLFLow/dlmlflow/mlruns/779860319571213172/fe839326b44946818dc1f9e37184b956/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/adriankazi/Desktop/MLOps/6-MLFLow/dlmlflow/mlruns/779860319571213172/fe839326b44946818dc1f9e37184b956/artifacts/model
+user_id: null
+version: 1

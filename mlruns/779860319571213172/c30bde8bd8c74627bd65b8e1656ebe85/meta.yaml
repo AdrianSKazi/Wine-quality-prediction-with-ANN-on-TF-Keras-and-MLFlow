@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adriankazi/Desktop/MLOps/6-MLFLow/dlmlflow/mlruns/779860319571213172/c30bde8bd8c74627bd65b8e1656ebe85/artifacts
+end_time: 1733348931014
+entry_point_name: ''
+experiment_id: '779860319571213172'
+lifecycle_stage: active
+run_id: c30bde8bd8c74627bd65b8e1656ebe85
+run_name: peaceful-mule-395
+run_uuid: c30bde8bd8c74627bd65b8e1656ebe85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733348927462
+status: 3
+tags: []
+user_id: adriankazi

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adriankazi/Desktop/MLOps/6-MLFLow/dlmlflow/mlruns/779860319571213172/441eef8e062b4a4084db30994b7e850f/artifacts
+end_time: 1733348706215
+entry_point_name: ''
+experiment_id: '779860319571213172'
+lifecycle_stage: active
+run_id: 441eef8e062b4a4084db30994b7e850f
+run_name: treasured-ram-740
+run_uuid: 441eef8e062b4a4084db30994b7e850f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733348701089
+status: 3
+tags: []
+user_id: adriankazi

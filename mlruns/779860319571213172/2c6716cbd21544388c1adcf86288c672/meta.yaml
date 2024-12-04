@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adriankazi/Desktop/MLOps/6-MLFLow/dlmlflow/mlruns/779860319571213172/2c6716cbd21544388c1adcf86288c672/artifacts
+end_time: 1733348713542
+entry_point_name: ''
+experiment_id: '779860319571213172'
+lifecycle_stage: active
+run_id: 2c6716cbd21544388c1adcf86288c672
+run_name: debonair-panda-474
+run_uuid: 2c6716cbd21544388c1adcf86288c672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733348709927
+status: 3
+tags: []
+user_id: adriankazi

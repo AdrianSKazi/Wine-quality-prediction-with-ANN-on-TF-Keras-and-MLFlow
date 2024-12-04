@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adriankazi/Desktop/MLOps/6-MLFLow/dlmlflow/mlruns/779860319571213172/2b42ec00fbef493d8dae96da3c4f1e2b/artifacts
+end_time: 1733348717147
+entry_point_name: ''
+experiment_id: '779860319571213172'
+lifecycle_stage: active
+run_id: 2b42ec00fbef493d8dae96da3c4f1e2b
+run_name: languid-elk-971
+run_uuid: 2b42ec00fbef493d8dae96da3c4f1e2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733348700959
+status: 3
+tags: []
+user_id: adriankazi
