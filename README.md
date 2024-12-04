@@ -8,4 +8,4 @@ You can view the results of this experiment in the [MLflow Experiment Dashboard]
 
 Alternatively, here is a snapshot of the experiment:
 
-![MLflow Experiment Snapshot](Snapshots/Experiment_1.png)
+![MLflow Experiment Snapshot](experiment_snapshots/MLflow_Experiment_1.png)
